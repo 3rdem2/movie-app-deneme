@@ -19,7 +19,7 @@ export class MoviesComponent {
   }
 
   onSelect(movie:Movie): void {
-    this.selectedMovie = movie;ng serve
+    this.selectedMovie = movie; 
 
 
   }
